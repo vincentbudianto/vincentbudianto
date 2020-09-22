@@ -23,6 +23,7 @@ I'm VB an avid programmer learning about informatics in university. I’m curren
 
 ## 💬 Stats
 ![My github stats](https://github-readme-stats.vercel.app/api?username=vincentbudianto&count_private=true&show_icons=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vincentbudianto&layout=compact&hide=css,jupyter%20notebook)
 
 <!--
