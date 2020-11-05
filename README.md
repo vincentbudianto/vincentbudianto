@@ -5,8 +5,8 @@ I'm VB an avid programmer learning about informatics in university. I’m curren
 <a href="https://github.com/vincentbudianto/Crypto-Helper">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vincentbudianto&repo=Crypto-Helper" />
 </a>
-<a href="https://github.com/vincentbudianto/zsh-config">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vincentbudianto&repo=zsh-config" />
+<a href="https://github.com/vincentbudianto/Stego-Helper">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vincentbudianto&repo=Stego-Helper" />
 </a>
 <a href="https://github.com/vincentbudianto/Engi-s-Cinema-Remake">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vincentbudianto&repo=Engi-s-Cinema-Remake" />
@@ -22,9 +22,7 @@ I'm VB an avid programmer learning about informatics in university. I’m curren
 </a>
 
 ## 💬 Stats
-![My github stats](https://github-readme-stats.vercel.app/api?username=vincentbudianto&count_private=true&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vincentbudianto&layout=compact&hide=css,jupyter%20notebook)
+![My github stats](https://github-readme-stats.vercel.app/api?username=vincentbudianto&count_private=true&show_icons=true) &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vincentbudianto&layout=compact&hide=css,jupyter%20notebook)
 
 <!--
 **vincentbudianto/vincentbudianto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
