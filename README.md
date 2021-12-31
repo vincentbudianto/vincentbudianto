@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm VB an avid programmer learning about informatics in university. I’m currently a fourth year student majoring in Informatics Engineering at Bandung Institute of Technology (ITB).
+Welcome to my Github profile.
 
 ## ⚡ Featured Projects
 <a href="https://github.com/vincentbudianto/Crypto-Helper">
